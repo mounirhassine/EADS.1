@@ -1,9 +1,10 @@
-mgmt-ip :10.0.011
-vlans:
-red:
+mgmt_ip: 10.0.1.111
+vlans
+red
 id: 10
-dlue: 20
+blue
+id: 20
 ports
-1:[10]
-2:[20]
-3:[10.20]
+1: [10]
+2: [20]
+3: [10.20]
